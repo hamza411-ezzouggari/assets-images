@@ -1,0 +1,335 @@
+.navbar-general {
+  position: absolute;
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  margin: 3% 0px 0px 0px;
+}
+.text-router-navbar {
+  display: flex;
+  justify-content: space-between;
+  width: 14%;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #505f98;
+  align-items: center;
+  margin: 3px 0px 0px 0px;
+}
+.logo-navbar {
+  display: flex;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 26px;
+  line-height: 38px;
+  color: #37447e;
+}
+.button-navbar {
+  display: flex;
+  align-items: center;
+}
+.button-style {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100px;
+  height: 28px;
+  border: none;
+  border-radius: 2px;
+  background: #111b47;
+  font-family: Roboto;
+  font-weight: 600;
+  font-size: 12px;
+  color: #ffffff;
+  margin: 0px 0px 16px 0px;
+}
+.image-aside {
+  position: absolute;
+  z-index: -1;
+  height: 90%;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+.designer_1 {
+  position: absolute;
+  height: 100%;
+  width: 65%;
+}
+.section-text {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  margin-top: 14%;
+  margin-left: 14%;
+  width: 40%;
+}
+.titel-general {
+  height: 132px;
+  width: 60%;
+  left: 0px;
+  right: 0.37px;
+  top: 0px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 50px;
+  line-height: 66px;
+  letter-spacing: 1px;
+  color: #091133;
+}
+.titel-body {
+  width: 60%;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+  color: #505f98;
+}
+.button-Under-section {
+  width: 60%;
+  top: 10%;
+}
+.Purchase-button {
+  border: none;
+  width: 189px;
+  height: 36px;
+  border-radius: 2px;
+  background: #111b47;
+  color: #ffffff;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+}
+.Learn-button {
+  border: none;
+  width: 189.13px;
+  height: 36px;
+  left: 386.27px;
+  background: transparent;
+  color: #091133;
+  border: 2px solid rgba(9, 17, 51, 1);
+}
+.section-number2 {
+  position: absolute;
+  top: 95%;
+  width: 82%;
+  margin: 0px 0px 0px 0px;
+  display: flex;
+  margin-left: 14%;
+}
+.image-section-number2 {
+  display: flex;
+  justify-content: flex-end;
+  margin: 0px 0px 0px 100px;
+}
+.text-paragraph {
+  width: 35%;
+  margin-top: 6%;
+}
+.titel-section2 {
+  height: 48px;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 48px;
+  margin: 0px 0px 0px -40px;
+}
+.paragraphe-section2 {
+  margin: 0px 0px 0px -40px;
+  width: 90%;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #6f7cb2;
+}
+.paragraphe-down {
+  margin: 50px 0px 0px 0px;
+  display: flex;
+}
+.paragraphe-down-left {
+  width: 45%;
+}
+.icon-form {
+  height: 36px;
+}
+.title-Under-icon h1 {
+  margin: 5px 0px 0px 0px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 26px;
+  color: #091133;
+}
+.title-Under-icon p {
+  height: 54px;
+  top: 82px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 18px;
+  color: #5d6970;
+}
+.paragraphe-down-right {
+  width: 45%;
+}
+.section-number3 {
+  position: absolute;
+  top: 175%;
+  width: 100%;
+  background: #fbfbfd;
+}
+.titel-paragraphe-number3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.titel-paragraphe3 {
+  position: absolutes;
+  width: 50%;
+  margin: 0px 0px 0px 15%;
+}
+.titel-paragraphe3 h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 36px;
+  line-height: 48px;
+  color: #091133;
+}
+.titel-paragraphe3 p {
+  height: 140px;
+  left: 0px;
+  right: 43px;
+  top: 64px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 26px;
+  color: #6f7cb2;
+}
+.section-number3-right {
+  display: flex;
+  flex-direction: column;
+}
+.section-number3-down {
+  width: 50%;
+  margin: 0px 0px 0px 15%;
+  display: flex;
+  flex-direction: row;
+}
+.number3-down-logo-left {
+  margin: 0px 100px 30px 0px;
+}
+.number3-down-logo-left h1 {
+  height: 26px;
+  left: 0px;
+  right: 0px;
+  top: 50px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+  color: #091133;
+}
+.number3-down-logo-left p {
+  height: 36px;
+  left: 0px;
+  right: 40px;
+  top: 82px;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 18px;
+  color: #5d6970;
+}
+.number3-down-right {
+  margin: 0px 0px 0px 0px;
+}
+.footer-general {
+  position: absolute;
+  height: 25%;
+  width: 100%;
+  background-color: rgb(231, 236, 255);
+  margin-top: 130%;
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+}
+.Above-line {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+  align-content: center;
+}
+.Above-line p {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 24px;
+  color: #939ea4;
+}
+.Above-line h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 900;
+  font-size: 26px;
+  line-height: 38px;
+  color: #37447e;
+}
+.Above-line button {
+  border: none;
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: center;
+  color: rgba(255, 255, 255, 1);
+  background: #111b47;
+  border-radius: 2px;
+  width: 109px;
+  height: 26px;
+  border-radius: 2px;
+}
+.logo {
+  height: 20px;
+  margin: 0px 10px 0px 0px;
+}
+.line {
+  margin: 20px 0px 0px 14%;
+  width: 72%;
+  height: 1px;
+  top: 2987px;
+  left: 170px;
+  background: #cdd1d4;
+}
+.navbar-under {
+  justify-content: center;
+  position: absolute;
+  width: 75%;
+  display: flex;
+  margin: 20px 0px 0px 13%;
+  justify-content: space-between;
+}
+.footer-general3 {
+  margin: 3% 0px 0px 0px;
+}

@@ -1,0 +1,357 @@
+@media (min-device-width: 0px) and (max-device-width: 390px) {
+  body {
+    margin: 0px 0px 0px 0px;
+  }
+  .text-router-navbar {
+    width: 20%;
+  }
+  .image-aside {
+    position: absolute;
+    z-index: -1;
+    height: 35%;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+  }
+  .section-text {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    margin-top: 19%;
+    margin-left: 9%;
+    width: 80%;
+  }
+  .titel-body {
+    margin: -30px 0px 16px 0px;
+  }
+  .text-paragraph {
+    width: 5%;
+    margin-top: 6%;
+  }
+  .section-number2 {
+    position: absolute;
+    top: 35%;
+    width: 100%;
+    margin: 50px 0px 0px 0px;
+    display: flex;
+  }
+  .image-section-number2 {
+    position: absolute;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0px 0px 0px 40%;
+    height: 28rem;
+  }
+  .text-paragraph {
+    position: absolute;
+    margin: 0px 0px 0px 130px;
+    width: 40%;
+    margin-top: 6%;
+  }
+  .paragraphe-down {
+    width: 100%;
+    margin: 20px 0px 0px -45px;
+  }
+  .paragraphe-down-left {
+    width: 45%;
+  }
+  .paragraphe-down-right {
+    width: 45%;
+    margin: 0px 0px 0px 20px;
+  }
+  .section-number3 {
+    position: absolute;
+    top: 75%;
+    width: 100%;
+  }
+  .titel-paragraphe3 {
+    width: 80%;
+    margin: 0px 0px 0px 15px;
+  }
+  .section-number3-down {
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+    display: flex;
+    flex-direction: row;
+  }
+  .number3-down-logo-left {
+    width: 80%;
+    margin: 50px 0px 0px 16px;
+  }
+  .footer-general {
+    position: absolute;
+    height: 10%;
+    width: 100%;
+    background-color: rgb(231, 236, 255);
+    top: 46%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+  }
+}
+@media (min-device-width: 391px) and (max-device-width: 500px) {
+  .text-router-navbar {
+    width: 20%;
+  }
+  .image-aside {
+    position: absolute;
+    z-index: -1;
+    height: 49%;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+  }
+  .section-text {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    margin-top: 19%;
+    margin-left: 9%;
+    width: 80%;
+  }
+  .titel-body {
+    margin: -30px 0px 16px 0px;
+  }
+  .text-paragraph {
+    width: 5%;
+    margin-top: 6%;
+  }
+  .section-number2 {
+    position: absolute;
+    top: 49%;
+    width: 100%;
+    margin: 50px 0px 0px 0px;
+    display: flex;
+  }
+  .image-section-number2 {
+    position: absolute;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0px 0px 0px 40%;
+    height: 28rem;
+  }
+  .text-paragraph {
+    position: absolute;
+    margin: 0px 0px 0px 130px;
+    width: 40%;
+    margin-top: 6%;
+  }
+  .paragraphe-down {
+    width: 100%;
+    margin: 20px 0px 0px -45px;
+  }
+  .paragraphe-down-left {
+    width: 45%;
+  }
+  .paragraphe-down-right {
+    width: 45%;
+    margin: 0px 0px 0px 20px;
+  }
+  .section-number3 {
+    position: absolute;
+    top: 105.5%;
+    width: 100%;
+  }
+  .titel-paragraphe3 {
+    width: 80%;
+    margin: 0px 0px 0px 15px;
+  }
+  .section-number3-down {
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+    display: flex;
+    flex-direction: row;
+  }
+  .number3-down-logo-left {
+    width: 80%;
+    margin: 50px 0px 0px 16px;
+  }
+  .footer-general {
+    position: absolute;
+    height: 13%;
+    width: 100%;
+    background-color: rgb(231, 236, 255);
+    top: 70%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+  }
+}
+@media (min-device-width: 501px) and (max-device-width: 630px) {
+  .text-router-navbar {
+    width: 20%;
+  }
+  .image-aside {
+    position: absolute;
+    z-index: -1;
+    height: 59%;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+  }
+  .section-text {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    margin-top: 19%;
+    margin-left: 9%;
+    width: 80%;
+  }
+  .titel-body {
+    margin: -30px 0px 16px 0px;
+  }
+  .text-paragraph {
+    width: 5%;
+    margin-top: 6%;
+  }
+  .section-number2 {
+    position: absolute;
+    top: 55%;
+    width: 100%;
+    margin: 50px 0px 0px 0px;
+    display: flex;
+  }
+  .image-section-number2 {
+    position: absolute;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0px 0px 0px 40%;
+    height: 28rem;
+  }
+  .text-paragraph {
+    position: absolute;
+    margin: 0px 0px 0px 130px;
+    width: 40%;
+    margin-top: 6%;
+  }
+  .paragraphe-down {
+    width: 100%;
+    margin: 20px 0px 0px -45px;
+  }
+  .paragraphe-down-left {
+    width: 45%;
+  }
+  .paragraphe-down-right {
+    width: 45%;
+    margin: 0px 0px 0px 20px;
+  }
+  .section-number3 {
+    position: absolute;
+    top: 120%;
+    width: 100%;
+  }
+  .titel-paragraphe3 {
+    width: 80%;
+    margin: 0px 0px 0px 15px;
+  }
+  .section-number3-down {
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+    display: flex;
+    flex-direction: row;
+  }
+  .number3-down-logo-left {
+    width: 80%;
+    margin: 50px 0px 0px 16px;
+  }
+  .footer-general {
+    position: absolute;
+    height: 16%;
+    width: 100%;
+    background-color: rgb(231, 236, 255);
+    top: 75%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+  }
+}
+@media (min-device-width: 631px) and (max-device-width: 730px) {
+  .text-router-navbar {
+    width: 20%;
+  }
+  .image-aside {
+    position: absolute;
+    z-index: -1;
+    height: 75%;
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+  }
+  .section-text {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    margin-top: 19%;
+    margin-left: 9%;
+    width: 80%;
+  }
+  .titel-body {
+    margin: -30px 0px 16px 0px;
+  }
+  .text-paragraph {
+    width: 5%;
+    margin-top: 6%;
+  }
+  .section-number2 {
+    position: absolute;
+    top: 75%;
+    width: 100%;
+    margin: 50px 0px 0px 0px;
+    display: flex;
+  }
+  .image-section-number2 {
+    position: absolute;
+    display: flex;
+    justify-content: flex-end;
+    margin: 0px 0px 0px 40%;
+    height: 28rem;
+  }
+  .text-paragraph {
+    position: absolute;
+    margin: 0px 0px 0px 130px;
+    width: 40%;
+    margin-top: 6%;
+  }
+  .paragraphe-down {
+    width: 100%;
+    margin: 20px 0px 0px -45px;
+  }
+  .paragraphe-down-left {
+    width: 45%;
+  }
+  .paragraphe-down-right {
+    width: 45%;
+    margin: 0px 0px 0px 20px;
+  }
+  .section-number3 {
+    position: absolute;
+    top: 145%;
+    width: 100%;
+  }
+  .titel-paragraphe3 {
+    width: 80%;
+    margin: 0px 0px 0px 15px;
+  }
+  .section-number3-down {
+    width: 100%;
+    margin: 0px 0px 0px 0px;
+    display: flex;
+    flex-direction: row;
+  }
+  .number3-down-logo-left {
+    width: 80%;
+    margin: 50px 0px 0px 16px;
+  }
+  .footer-general {
+    position: absolute;
+    height: 19%;
+    width: 100%;
+    background-color: rgb(231, 236, 255);
+    top: 90%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+  }
+}
+@media (min-device-width: 731px) and (max-device-width: 850px) {
+}
